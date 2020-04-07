@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Ahemmed-app"
+    }
+  },
+  "defaultProject": "Ahemmed-app",
+  "cli": {
+    "analytics": "36c89113-f77e-4f80-b7ed-d6b781277567"
+  }
 }
